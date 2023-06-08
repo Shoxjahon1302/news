@@ -2,7 +2,6 @@ import React from "react";
 import strelkaPastga from "../image/Frame (2).png";
 import strelkaTepaga from "../image/Frame (1).png";
 import logo from "../image/Frame.png";
-
 export default function Header() {
   return (
     <div className="bg-[#1D1D1D] w-full">
