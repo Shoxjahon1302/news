@@ -4,7 +4,7 @@ import billGeyts from "../image/f_vnDWWcWT23pESGyj2qa4TLvxD6qRaB 1.png";
 export default function Maps() {
   return (
     <div className="w-full">
-      <div className="w-[1280px] m-auto flex gap-5">
+      <div className="w-[1280px] m-auto flex gap-5 items-center">
         <div className="relative mt-10">
           <img src={ShavkatAka} alt="" />
           <div className="">
