@@ -3,9 +3,9 @@ import rasm from "../image/2oqi 1.png";
 
 export default function HeaderBottom() {
   return (
-    <div className="bg-[#E50914] w-full">
-      <div className="w-[1440px] m-auto">
-        <div className="flex items-center justify-between">
+    <div className="bg-[#E50914] w-full sticky top-0 z-40">
+      <div className="w-[1350px] m-auto">
+        <div className="flex items-center  justify-between">
           <div className="flex items-center gap-[20px] p-[20px]">
             <img className="mr-10" src={rasm} alt="" />
             <select name="" id="">

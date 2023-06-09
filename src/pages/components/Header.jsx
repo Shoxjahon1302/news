@@ -5,7 +5,7 @@ import logo from "../image/Frame.png";
 export default function Header() {
   return (
     <div className="bg-[#1D1D1D] w-full">
-      <div className="w-[1440px] m-auto">
+      <div className="w-[1320px] m-auto">
         <div className="flex items-center justify-between p-[11px_12px]">
           <div className="flex items-center gap-[23.44px]">
             <div className="flex items-center gap-1">
