@@ -1,6 +1,5 @@
 import React from "react";
 import { data } from "./data";
-import SportPages from "./SportPages";
 
 export default function UzbekistanNews() {
   return (

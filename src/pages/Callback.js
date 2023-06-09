@@ -10,6 +10,9 @@ import Maps from "./components/Maps";
 import SportNewsPage from "./components/SportNewsPage";
 import WorldNewsPage from "./components/WorldNewsPage";
 import UzbekistanNews from "./components/UzbekistanNews";
+import VedioPages from "./components/VedioPages";
+import TopOfFooter from "./components/TopOfFooter";
+import Footer from "./components/Footer";
 
 export default function Callback() {
   return (
@@ -25,6 +28,9 @@ export default function Callback() {
       <SportNewsPage />
       <WorldNewsPage />
       <UzbekistanNews />
+      <VedioPages />
+      <TopOfFooter />
+      <Footer />
     </div>
   );
 }
