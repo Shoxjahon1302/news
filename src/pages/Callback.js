@@ -7,6 +7,9 @@ import WebSiteNews from "./components/WebSiteNews";
 import LastNews from "./components/LastNews";
 import SportPages from "./components/SportPages";
 import Maps from "./components/Maps";
+import SportNewsPage from "./components/SportNewsPage";
+import WorldNewsPage from "./components/WorldNewsPage";
+import UzbekistanNews from "./components/UzbekistanNews";
 
 export default function Callback() {
   return (
@@ -19,6 +22,9 @@ export default function Callback() {
       <LastNews />
       <SportPages />
       <Maps />
+      <SportNewsPage />
+      <WorldNewsPage />
+      <UzbekistanNews />
     </div>
   );
 }

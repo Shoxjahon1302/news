@@ -8,15 +8,16 @@ export default function Maps() {
         <div className="relative mt-10">
           <img src={ShavkatAka} alt="" />
           <div className="">
-            <button className="top-5 left-5 p-1 rounded absolute bg-red-600 text-white">
+            <button className="top-5 left-5 p-3 text-[20px] rounded absolute bg-red-600 text-white">
               Jamiyat
             </button>
-            <button className="top-5 absolute left-[91%] bg-red-600 text-white px-3 py-1 rounded">
+            <button className="top-5 absolute left-[91%] bg-red-600 text-white px-4 py-3 rounded">
               <i className="fa-solid fa-bolt-lightning"></i>
             </button>
             <div className="flex flex-col">
               <h4 className="absolute px-10 py-1 bottom-10 text-white text-[32px] font-['Inter'] w-[100%] mix-blend-hard-light bg-[#333]">
-                Mirziyoyev 5 nafar urush qatnashchisini ko‘rishga bordi
+                Messini ortga qaytarish “Barselona” rejalarida yo‘q – klub
+                vitse-prezidenti
               </h4>
               <div className="w-[100%] mix-blend-hard-light bg-[#333] flex absolute bottom-0 py-2 px-10">
                 <div className="border-r-2 flex items-center gap-2">
@@ -34,15 +35,16 @@ export default function Maps() {
         <div className="relative mt-10">
           <img src={billGeyts} alt="" />
           <div className="">
-            <button className="top-5 left-5 p-1 rounded absolute bg-red-600 text-white">
+            <button className="top-5 left-5 p-3 text-[20px] rounded absolute bg-red-600 text-white">
               Jamiyat
             </button>
-            <button className="top-5 absolute left-[91%] bg-red-600 text-white px-3 py-1 rounded">
+            <button className="top-5 absolute left-[91%] bg-red-600 text-white px-4 py-3 rounded">
               <i className="fa-solid fa-bolt-lightning"></i>
             </button>
             <div className="flex flex-col">
               <h4 className="absolute px-10 py-1 bottom-10 text-white text-[32px] font-['Inter'] w-[100%] mix-blend-hard-light bg-[#333]">
-                Mirziyoyev 5 nafar urush qatnashchisini ko‘rishga bordi
+                Bill Geyts Ilon Maskning sun’iy intellekt haqidagi taklifiga
+                qarshi
               </h4>
               <div className="w-[100%] mix-blend-hard-light bg-[#333] flex absolute bottom-0 py-2 px-10">
                 <div className="border-r-2 flex items-center gap-2">
