@@ -14,7 +14,6 @@ export default () => {
       slidesPerView={1}
       onSwiper={(swiper) => console.log(swiper)}
       onSlideChange={() => console.log("slide change")}
-      scrollbar={{ draggable: true }}
     >
       <SwiperSlide>
         <div className="flex flex-wrap gap-5">
